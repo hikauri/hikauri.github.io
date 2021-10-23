@@ -1,0 +1,14 @@
+public class test {
+    public static void main(String[] args) {
+        System.out.print("--------个人信息--------");
+        System.out.println();
+        System.out.print("姓名：");
+        System.out.println();
+        System.out.print("学号：");
+        System.out.println();
+        System.out.print("专业：");
+        System.out.println();
+        System.out.print("--------");
+    }
+
+}
